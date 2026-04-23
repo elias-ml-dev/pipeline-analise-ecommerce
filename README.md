@@ -49,9 +49,15 @@ A pipeline gerou duas análises principais:
 
 ### 🔹 Valor médio de compras por hora
 Permite identificar os horários com maior valor de compra, ajudando na definição de estratégias de marketing.
+<img width="921" height="453" alt="gráfico_faculdade_1" src="https://github.com/user-attachments/assets/9fecd324-e7c4-45ef-b2ca-aeb059ef0da1" />
+
+
+---
+
 
 ### 🔹 Produtos mais visualizados
 Mostra quais produtos recebem mais atenção dos usuários, auxiliando em campanhas, destaques e promoções.
+<img width="905" height="443" alt="grafico_faculdade_2" src="https://github.com/user-attachments/assets/06885ae4-dccd-4e09-bbaf-219008883953" />
 
 Esses insights ajudam a transformar dados brutos em decisões estratégicas.
 
